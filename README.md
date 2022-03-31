@@ -53,8 +53,5 @@ If you can follow the tutorials from the link here: https://www.youtube.com/watc
 
 4.8 Summary
 
-4.9 Explore more
-
-4.10 Homework
 
 All notebooks links are here 👉 https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp  
